@@ -15,4 +15,5 @@ Endian tipi, genellikle işlemci ve bellek arasındaki veri sıralamasını tan�
 Endian tipi, özellikle çok platformlu yazılım geliştirme ve ağ iletişimi için önemlidir. Doğru endian tipini kullanmak ve uyumlu veri alışverişini sağlamak, veri uyumsuzluğunu önler ve sistemler arasında sorunsuz iletişim sağlar.
 
 Test
-[Testinizi kendi bilgisayarınızda yapabilirsiniz, buradan ulaşın.](https://github.com/kullanici-adi/proje-adı/blob/master/EndianControl.c)
+
+[Testinizi kendi bilgisayarınızda yapabilirsiniz, buradan ulaşın.](https://github.com/HsynDmrl/Endian/blob/master/EndianControl.c)
