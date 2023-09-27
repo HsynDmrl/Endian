@@ -16,4 +16,4 @@ Endian tipi, özellikle çok platformlu yazılım geliştirme ve ağ iletişimi 
 
 Test
 
-[Testinizi kendi bilgisayarınızda yapabilirsiniz, buradan ulaşın.](https://github.com/HsynDmrl/Endian/blob/master/EndianControl.c)
+[Testinizi kendi bilgisayarınızda yapabilirsiniz, buradan ulaşın.](https://github.com/HsynDmrl/Endian/blob/master/endianControl.c)
