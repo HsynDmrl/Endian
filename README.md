@@ -13,3 +13,6 @@ Big endian düzenine sahip sistemler, verileri en büyük bayttan (most signific
 Endian tipi, genellikle işlemci ve bellek arasındaki veri sıralamasını tanımlar. Bu, verilerin bellekte nasıl düzenlendiğini ve işlendiğini etkiler. Uygulama geliştirirken veya farklı endian tipine sahip sistemler arasında veri transferi yaparken, uygun dönüşümlerin yapılması gerekebilir.
 
 Endian tipi, özellikle çok platformlu yazılım geliştirme ve ağ iletişimi için önemlidir. Doğru endian tipini kullanmak ve uyumlu veri alışverişini sağlamak, veri uyumsuzluğunu önler ve sistemler arasında sorunsuz iletişim sağlar.
+
+Test
+[Testinizi kendi bilgisayarınızda yapabilirsiniz, buradan ulaşın.](https://github.com/kullanici-adi/proje-adı/blob/master/EndianControl.c)
